@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "jupyter.jupyterServerType": "local",
+    "files.exclude": {
+        "**/.ipynb_checkpoints": true,
+        "**/.vscode": true
+    }
+}
